@@ -7,6 +7,7 @@ export default function Posts(){
 	useEffect(()=>{
 
 	}, [])
+	
 	return (
 		<div className="">
 			<h3>Posts: </h3>
