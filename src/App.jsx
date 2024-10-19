@@ -10,7 +10,7 @@ function App() {
   return (
     <>
 
-      <Posts></Posts>
+
       <h3>React Core Concepts Recap</h3>
       <ol>
         <li>Components</li>
@@ -21,6 +21,7 @@ function App() {
         <li>Load data</li>
       </ol>
       <hr />
+      <Posts></Posts>
  
     </>
   )
